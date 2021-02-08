@@ -2,6 +2,8 @@
 
 > A container that adapts the width or height of its child to preserve its specified aspect ratio.
 
+[![NPM](https://img.shields.io/npm/v/react-fixed-aspect-ratio-box.svg)](https://www.npmjs.com/package/react-fixed-aspect-ratio-box)
+
 ## Example
 
 https://davidedefeudis.github.io/react-fixed-aspect-ratio-box/
