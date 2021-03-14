@@ -8,6 +8,22 @@ function App() {
       <main>
         <header>
           <h1>react-fixed-aspect-ratio-box example</h1>
+          <p>
+            <a
+              href='https://github.com/DavideDeFeudis/react-fixed-aspect-ratio-box'
+              target='_blank'
+            >
+              GitHub repo
+            </a>
+          </p>
+          <p>
+            <a
+              href='https://www.npmjs.com/package/react-fixed-aspect-ratio-box'
+              target='_blank'
+            >
+              Npm package
+            </a>
+          </p>
           <p>Resize the window horizontally and vertically.</p>
         </header>
         <section>
