@@ -11,6 +11,7 @@
   "engines": {
     "node": ">=10"
   },
+  "homepage": "https://davidedefeudis.github.io/react-fixed-aspect-ratio-box/",
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
