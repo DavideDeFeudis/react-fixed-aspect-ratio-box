@@ -14,11 +14,11 @@
   "homepage": "https://davidedefeudis.github.io/react-fixed-aspect-ratio-box/",
   "keywords": [
     "react",
-    "grid",
+    "box",
+    "container",
     "responsive",
     "layout",
-    "masonry",
-    "aspect ratio"
+    "fix aspect ratio"
   ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
